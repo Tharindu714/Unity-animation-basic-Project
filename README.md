@@ -161,11 +161,11 @@ public class RootMotionController : MonoBehaviour {
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="Assets/Images/AnimatorSetup.png" width="45%" />
-  &nbsp;
-  <img src="Assets/Images/BlendTreeGraph.png" width="45%" />
-</p>
+**Coin Animation & Cube Animation**
+![1](https://github.com/user-attachments/assets/480a9d67-8283-4f8f-af2e-aa75e92b5695)
+
+**3rd Person game Animation**
+![2](https://github.com/user-attachments/assets/219e0042-28c5-4595-84fa-5043466fb3fa)
 
 ---
 
